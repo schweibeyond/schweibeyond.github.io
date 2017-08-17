@@ -5,8 +5,8 @@ header-img: img/shuai.jpg
 email: schweibeyond@gmail.com
 description: ""
 keyword: "Schwei, Beyond, SchweiBeyond, 帅标， 8527， Schweiger"
-url: "http://schweibeyond.github.io"              # your host, for absolute URL
-baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+url: ""              # your host, for absolute URL
+baseurl: "http://schweibeyond.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
